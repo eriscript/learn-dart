@@ -65,7 +65,7 @@ class Point {
 ```
 
 > **Observação**
-> Este exemplo está sendo executado em um [DartPad](https://dartpad.dev/) incorporado. Você também pode [abrir este exemplo em uma janela própria](https://dartpad.dev/?id=2374e8095d304d2a13b94b868e83f0f7).
+> Este exemplo está sendo executado em um [DartPad](https://dartpad.dev/) incorporado. Você também pode [abrir este exemplo em uma janela própria](https://dartpad.dev/?id=bc63d212c3252e44058ff76f34ef5730).
 
 ## Dart: As bibliotecas
 
