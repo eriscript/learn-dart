@@ -1,0 +1,57 @@
+# Arquivos de metadados de IDEs
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Arquivos gerados pelo Dart e Pub
+.dart_tool/
+.packages
+build/
+
+# O pubspec.lock deve ser versionado em projetos de aplicação (apps)
+# para garantir que todos os desenvolvedores usem as mesmas versões de pacotes.
+# Descomente a linha abaixo APENAS se você estiver criando um pacote de biblioteca (library).
+# pubspec.lock
+
+# Arquivos gerados pelo Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+ios/Pods/
+ios/DerivedData/
+ios/.symlinks/
+ios/Flutter/App.framework
+ios/Flutter/engine
+ios/Flutter/flutter_assets/
+ios/Flutter/.last_build_id
+android/.gradle
+android/app/build/
+android/build/
+android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+linux/flutter/generated_plugins.cmake
+macos/Flutter/GeneratedPluginRegistrant.swift
+windows/flutter/generated_plugins.cmake
+
+# Chaves de assinatura
+*.jks
+*.keystore
+*.cer
+
+# Arquivos compilados ou de saída
+*.aot
+*.appcache
+*.dart.js
+*.dart.js.deps
+*.dart.js.map
+*.dart.js.precompiled.js
+*.snapshot
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs e arquivos temporários
+*.log
+*.tmp
