@@ -77,7 +77,7 @@ Diferença entre Listas Dinâmicas e de Tamanho Fixo
 1. **Começando**
    - [O que é Dart](src/getting_started/what_is_dart.md)
    - [Sintaxe Básica do Dart](src/getting_started/dart_syntax.md)
-   - [Variáveis](src/getting_started/test_variables.dart)
+   - [Variáveis](src/getting_started/variables_test.dart)
 2. **Operadores**
    - [Operadores Aritméticos](src/operators/test_arithmetic.dart) (`+`, `-`, `*`, `/`, `~/`, `%`)
    - [Operadores Bitwise](src/operators/test_bitwise.dart) (`&`, `|`, `^`, `>>`, `<<`, `>>>`, `~`)
