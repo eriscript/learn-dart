@@ -1,7 +1,12 @@
 /// src/operators/arithmetic_test.dart
 ///
-/// Este arquivo contém testes que demonstram o uso dos operadores
-/// aritméticos em Dart.
+/// Assunto: Demonstração dos operadores aritméticos em Dart.
+///
+/// Este arquivo usa o framework de testes do Dart para verificar e documentar
+/// o comportamento de cada operador.
+///
+/// Para leituras adicionais, consulte a documentação oficial:
+/// @see: https://dart.dev/language/operators#arithmetic-operators
 ///
 /// Para executar os testes, use o comando no terminal:
 /// `dart test src/operators/arithmetic_test.dart`
