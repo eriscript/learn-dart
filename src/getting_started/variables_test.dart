@@ -1,7 +1,12 @@
 /// src/getting_started/variables_test.dart
 ///
-/// Este arquivo contém testes que demonstram a declaração e o uso de
-/// variáveis e tipos em Dart.
+/// Assunto: Declaração e uso de variáveis e tipos de dados em Dart.
+///
+/// Este arquivo usa o framework de testes para verificar e documentar os
+/// principais tipos de dados, inferência, imutabilidade e null safety.
+///
+/// Para leituras adicionais, consulte a documentação oficial:
+/// @see: https://dart.dev/language/variables
 ///
 /// Para executar os testes, use o comando no terminal:
 /// `dart test src/getting_started/variables_test.dart`
