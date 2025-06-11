@@ -1,0 +1,16 @@
+name: learn_dart
+description: Playground e Cheatsheet Para Aprender Dart.
+version: 1.0.0
+# homepage: https://github.com/eriscript/learn-dart
+
+# Versão do SDK do Dart
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+# Dependências normais (para o código principal)
+#dependencies:
+  # Ex: http: ^1.2.0
+
+# Dependências de desenvolvimento (para testes, linters, etc.)
+dev_dependencies:
+  test: ^1.25.2
